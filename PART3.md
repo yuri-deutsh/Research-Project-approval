@@ -172,4 +172,4 @@ Include the following tasks to the "Approved" column:
 
 Ready for a manual review
 
-Copyright © 2022 ALX, All rights reserved.
+Copyright © 2024 ALX, All rights reserved.
